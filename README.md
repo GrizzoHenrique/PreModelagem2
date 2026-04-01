@@ -15,7 +15,6 @@
 |-----------|--------|----------|
 | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | Latest | Manipulação e análise de dados |
 | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | Latest | Computação numérica |
-| ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) | Latest | Machine Learning e métricas |
 | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) | Latest | Visualizações estáticas |
 | ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white) | Latest | Gráficos estatísticos |
 | ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) | Latest | Visualizações interativas |
@@ -36,8 +35,6 @@
 ### Pré-requisitos
 - Python 3.7+
 - pip ou conda
-- Power BI Desktop (opcional, para dashboard)
-- SQLite (incluído no Python)
 
 ### Instalação
 
